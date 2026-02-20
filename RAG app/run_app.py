@@ -47,5 +47,7 @@ def main(mongo_username, mongo_password, mongo_host):
     #sys.exit(stcli.main())
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+    # main()
+
+main()
