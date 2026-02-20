@@ -46,5 +46,5 @@ def main(mongo_username, mongo_password, mongo_host):
     sys.argv = ["streamlit", "run", str(app_path)]
     sys.exit(stcli.main())
 
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+#    main()
